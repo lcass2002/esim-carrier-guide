@@ -1,0 +1,224 @@
+{
+  "AGL": {
+    "status": "Supports new eSIM and physical SIM to eSIM",
+    "instructions": "NEW eSIM\n1. Open the My Account web portal or AGL app.\n2. Go to Overview.\n3. Under My Internet and Mobile, select View my services.\n4. Select the mobile service.\n5. Select Activate SIM and follow the prompts.\nConfirmation SMS follows activation. Usually within an hour, but may take up to 2 business days.\n\nPHYSICAL SIM TO eSIM\n1. Go to Overview > My Internet and Mobile > View my services.\n2. Select the mobile service.\n3. Scroll to My SIM Settings.\n4. Select Replace SIM and follow the prompts.",
+    "source": "https://www.agl.com.au/help-support/account-setup-management/activate-sim-card",
+    "app": "https://apps.apple.com/au/app/agl/id979410553",
+    "web": "https://secure.agl.com.au/u/login/identifier",
+    "phone": "131 245",
+    "display": "Supports new eSIM and physical SIM to eSIM\n\nNEW eSIM\n1. Open the My Account web portal or AGL app.\n2. Go to Overview.\n3. Under My Internet and Mobile, select View my services.\n4. Select the mobile service.\n5. Select Activate SIM and follow the prompts.\nConfirmation SMS follows activation. Usually within an hour, but may take up to 2 business days.\n\nPHYSICAL SIM TO eSIM\n1. Go to Overview > My Internet and Mobile > View my services.\n2. Select the mobile service.\n3. Scroll to My SIM Settings.\n4. Select Replace SIM and follow the prompts.\n\nRESOURCES\nSource guide: https://www.agl.com.au/help-support/account-setup-management/activate-sim-card\nCarrier app: https://apps.apple.com/au/app/agl/id979410553\nWeb portal: https://secure.agl.com.au/u/login/identifier\nPhone support: 131 245"
+  },
+  "ALDI Mobile": {
+    "status": "Physical SIM to eSIM via app; eSIM transfer requires support",
+    "instructions": "PHYSICAL SIM TO eSIM\n1. Use the ALDI Mobile app to request a swap.\n2. A QR code with your eSIM profile will be emailed to you.\n3. Your physical SIM stops working once the eSIM activates.\n\neSIM TO eSIM\nCall 1300 989 000 to organise the transfer.",
+    "source": "https://www.aldimobile.com.au/pages/esim",
+    "source2": "https://www.aldimobile.com.au/blogs/esim/transferring-your-aldi-mobile-esim-to-a-new-phone",
+    "app": "https://apps.apple.com/au/app/aldi-mobile/id616626316",
+    "phone": "1300 989 000",
+    "display": "Physical SIM to eSIM via app; eSIM transfer requires support\n\nPHYSICAL SIM TO eSIM\n1. Use the ALDI Mobile app to request a swap.\n2. A QR code with your eSIM profile will be emailed to you.\n3. Your physical SIM stops working once the eSIM activates.\n\neSIM TO eSIM\nCall 1300 989 000 to organise the transfer.\n\nRESOURCES\nSource guide: https://www.aldimobile.com.au/pages/esim\nAdditional source guide: https://www.aldimobile.com.au/blogs/esim/transferring-your-aldi-mobile-esim-to-a-new-phone\nCarrier app: https://apps.apple.com/au/app/aldi-mobile/id616626316\nPhone support: 1300 989 000"
+  },
+  "amaysim": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "PHYSICAL SIM TO eSIM\n1. Open the amaysim app and swipe up to show plan details.\n2. Select Replace SIM.\n3. Choose I want a replacement eSIM, then Continue.\n4. Confirm device compatibility and select Confirm replacement.\n5. Confirm your number and select Yes, let’s go.\n6. Complete multi-factor authentication.\n7. Select OK and wait for SIM replacement.\n8. Download the eSIM to the device, confirm it is the right device, and select yes, set it up.\n9. Allow the eSIM installation prompts, including the Optus eSIM prompt.\n10. Finish setup and select start using my eSIM in the app.\nYour old SIM can be used until confirmation arrives, usually in 1–3 hours.\n\n eSIM TO eSIM\n1. Ensure the new phone is on Wi-Fi.\n2. Install the amaysim app on the phone receiving the eSIM.\n3. Open the eSIM/settings/account-management area and choose set up or transfer eSIM.\n4. Follow the app instructions.",
+    "source": "https://www.amaysim.com.au/sim-plans/esim/about-esims/convert-sim-to-esim",
+    "source2": "https://www.amaysim.com.au/sim-plans/esim/about-esims/how-to-transfer-an-esim-to-a-new-phone",
+    "video": "https://youtu.be/AAcXqEZXi_Y",
+    "app": "https://apps.apple.com/au/app/amaysim/id479119656",
+    "phone": "1300 808 300",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\nPHYSICAL SIM TO eSIM\n1. Open the amaysim app and swipe up to show plan details.\n2. Select Replace SIM.\n3. Choose I want a replacement eSIM, then Continue.\n4. Confirm device compatibility and select Confirm replacement.\n5. Confirm your number and select Yes, let’s go.\n6. Complete multi-factor authentication.\n7. Select OK and wait for SIM replacement.\n8. Download the eSIM to the device, confirm it is the right device, and select yes, set it up.\n9. Allow the eSIM installation prompts, including the Optus eSIM prompt.\n10. Finish setup and select start using my eSIM in the app.\nYour old SIM can be used until confirmation arrives, usually in 1–3 hours.\n\n eSIM TO eSIM\n1. Ensure the new phone is on Wi-Fi.\n2. Install the amaysim app on the phone receiving the eSIM.\n3. Open the eSIM/settings/account-management area and choose set up or transfer eSIM.\n4. Follow the app instructions.\n\nRESOURCES\nSource guide: https://www.amaysim.com.au/sim-plans/esim/about-esims/convert-sim-to-esim\nAdditional source guide: https://www.amaysim.com.au/sim-plans/esim/about-esims/how-to-transfer-an-esim-to-a-new-phone\nVideo instructions: https://youtu.be/AAcXqEZXi_Y\nCarrier app: https://apps.apple.com/au/app/amaysim/id479119656\nPhone support: 1300 808 300"
+  },
+  "Aussie Broadband": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "PHYSICAL SIM TO eSIM\n1. In the MyAussie app, open Set up or manage eSIM.\n2. Select Convert to eSIM.\n3. Follow prompts to download and install the eSIM.\n\neSIM TO eSIM\n1. Open Set up or manage eSIM.\n2. Select Transfer or Restore eSIM.\n3. Follow prompts to download and install the eSIM.",
+    "source": "https://www.aussiebroadband.com.au/help-centre/mobile/how-to-manage-your-aussie-broadband-mobile-service/",
+    "app": "https://apps.apple.com/au/app/myaussie/id1455414782",
+    "phone": "1300 880 905",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\nPHYSICAL SIM TO eSIM\n1. In the MyAussie app, open Set up or manage eSIM.\n2. Select Convert to eSIM.\n3. Follow prompts to download and install the eSIM.\n\neSIM TO eSIM\n1. Open Set up or manage eSIM.\n2. Select Transfer or Restore eSIM.\n3. Follow prompts to download and install the eSIM.\n\nRESOURCES\nSource guide: https://www.aussiebroadband.com.au/help-centre/mobile/how-to-manage-your-aussie-broadband-mobile-service/\nCarrier app: https://apps.apple.com/au/app/myaussie/id1455414782\nPhone support: 1300 880 905"
+  },
+  "Belong": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "APP METHOD\n1. In the Belong app, select Manage mobile plan for the service.\n2. Select Move to a new SIM > Swap to eSIM.\n3. Enter the code sent to the mobile (valid for 1 hour).\n4. Tap Continue with Belong app, then Start installing eSIM.\n5. On the Activate New eSIM pop-up, tap Allow, then Continue.\n6. Wait for Activating to change to Connecting to network.\n7. Return to Belong app and tap Submit eSIM swap.\n8. Wait for confirmation email/SMS and completion email, then restart the device.\n\nWEBSITE METHOD\n1. Log in to Belong website and select Manage mobile plan.\n2. Select Move to a new SIM > Swap to eSIM.\n3. Enter the code sent to the mobile (valid for 1 hour).\n4. Choose Install eSIM manually and scan the displayed QR code with the target device.\n5. Tap Allow on the Activate New eSIM pop-up, then Continue.\n6. Wait for network connection, return to the website and select Check eSIM installation, then Submit eSIM swap.\n7. Wait for confirmation and completion email, then restart the device.",
+    "source": "https://www.belong.com.au/support/mobile/esim/swap-to-esim-on-an-apple-device",
+    "app": "https://apps.apple.com/au/app/belong/id929905619",
+    "web": "https://www.belong.com.au/new/login",
+    "phone": "1300 235 664",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\nAPP METHOD\n1. In the Belong app, select Manage mobile plan for the service.\n2. Select Move to a new SIM > Swap to eSIM.\n3. Enter the code sent to the mobile (valid for 1 hour).\n4. Tap Continue with Belong app, then Start installing eSIM.\n5. On the Activate New eSIM pop-up, tap Allow, then Continue.\n6. Wait for Activating to change to Connecting to network.\n7. Return to Belong app and tap Submit eSIM swap.\n8. Wait for confirmation email/SMS and completion email, then restart the device.\n\nWEBSITE METHOD\n1. Log in to Belong website and select Manage mobile plan.\n2. Select Move to a new SIM > Swap to eSIM.\n3. Enter the code sent to the mobile (valid for 1 hour).\n4. Choose Install eSIM manually and scan the displayed QR code with the target device.\n5. Tap Allow on the Activate New eSIM pop-up, then Continue.\n6. Wait for network connection, return to the website and select Check eSIM installation, then Submit eSIM swap.\n7. Wait for confirmation and completion email, then restart the device.\n\nRESOURCES\nSource guide: https://www.belong.com.au/support/mobile/esim/swap-to-esim-on-an-apple-device\nCarrier app: https://apps.apple.com/au/app/belong/id929905619\nWeb portal: https://www.belong.com.au/new/login\nPhone support: 1300 235 664"
+  },
+  "Boost Mobile": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer in app",
+    "instructions": "OPTION 1\n1. Open My Boost Mobile app and tap Services.\n2. Select the service to switch.\n3. Scroll down and tap Transfer or restore eSIM.\n4. Follow the prompts.\n\nOPTION 2\n1. Tap Get help and select your service number.\n2. Select Set up or manage eSIM.\n3. Follow the guided process.",
+    "source": "https://boost.com.au/help/esims/esim-switching-from-physical-sim",
+    "app": "https://apps.apple.com/au/app/my-boost-mobile/id1536871973",
+    "phone": "1800 100 933",
+    "display": "Supports physical SIM to eSIM and eSIM transfer in app\n\nOPTION 1\n1. Open My Boost Mobile app and tap Services.\n2. Select the service to switch.\n3. Scroll down and tap Transfer or restore eSIM.\n4. Follow the prompts.\n\nOPTION 2\n1. Tap Get help and select your service number.\n2. Select Set up or manage eSIM.\n3. Follow the guided process.\n\nRESOURCES\nSource guide: https://boost.com.au/help/esims/esim-switching-from-physical-sim\nCarrier app: https://apps.apple.com/au/app/my-boost-mobile/id1536871973\nPhone support: 1800 100 933"
+  },
+  "Coles": {
+    "status": "Does not currently support eSIM",
+    "instructions": "Coles Mobile does not currently support eSIM activation in this guide. Check with the carrier for the latest support status.",
+    "display": "Does not currently support eSIM\n\nColes Mobile does not currently support eSIM activation in this guide. Check with the carrier for the latest support status.",
+    "phone": ""
+  },
+  "Dodo": {
+    "status": "Physical SIM to eSIM via support",
+    "instructions": "1. Contact Dodo support through the app or website to initiate the physical SIM to eSIM transfer.\n2. They will send a QR code when the eSIM service is ready.\n3. Follow the device prompts to install it.",
+    "source": "https://www.dodo.com/support/mobile/esim#how-do-i-activate-and-setup-my-service",
+    "app": "https://apps.apple.com/au/app/dodo/id6751869064",
+    "web": "https://www.dodo.com/contact-us#customer-support",
+    "phone": "13 36 36",
+    "display": "Physical SIM to eSIM via support\n\n1. Contact Dodo support through the app or website to initiate the physical SIM to eSIM transfer.\n2. They will send a QR code when the eSIM service is ready.\n3. Follow the device prompts to install it.\n\nRESOURCES\nSource guide: https://www.dodo.com/support/mobile/esim#how-do-i-activate-and-setup-my-service\nCarrier app: https://apps.apple.com/au/app/dodo/id6751869064\nWeb portal: https://www.dodo.com/contact-us#customer-support\nPhone support: 13 36 36"
+  },
+  "Everyday Mobile (Woolworths)": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer via app",
+    "instructions": "1. Open Everyday Mobile in the Woolworths app and select Options.\n2. Select the SIM card menu under Service Options.\n3. Select Change to eSIM and follow the instructions.\n4. You will receive an email containing your unique QR code.",
+    "source": "https://mobile.everyday.com.au/mobile-phone/esim",
+    "app": "https://apps.apple.com/au/app/everyday-mobile-woolworths/id1063183900",
+    "phone": "1300 101 234",
+    "display": "Supports physical SIM to eSIM and eSIM transfer via app\n\n1. Open Everyday Mobile in the Woolworths app and select Options.\n2. Select the SIM card menu under Service Options.\n3. Select Change to eSIM and follow the instructions.\n4. You will receive an email containing your unique QR code.\n\nRESOURCES\nSource guide: https://mobile.everyday.com.au/mobile-phone/esim\nCarrier app: https://apps.apple.com/au/app/everyday-mobile-woolworths/id1063183900\nPhone support: 1300 101 234"
+  },
+  "Exetel": {
+    "status": "eSIM only; app replacement process",
+    "instructions": "1. Open the Exetel app and log in.\n2. Open the mobile service and select Replace SIM.\n\nThe guide notes Exetel operates as eSIM-only.",
+    "source": "https://support.exetel.com.au/support-hub-page/a3hOY0000009obu/activate-and-setup-esim",
+    "app": "https://apps.apple.com/au/app/exetel/id6474650965",
+    "phone": "13 39 38",
+    "display": "eSIM only; app replacement process\n\n1. Open the Exetel app and log in.\n2. Open the mobile service and select Replace SIM.\n\nThe guide notes Exetel operates as eSIM-only.\n\nRESOURCES\nSource guide: https://support.exetel.com.au/support-hub-page/a3hOY0000009obu/activate-and-setup-esim\nCarrier app: https://apps.apple.com/au/app/exetel/id6474650965\nPhone support: 13 39 38"
+  },
+  "The Good Guys": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "1. Connect the device to Wi-Fi and open The Good Guys Mobile app on the device receiving the eSIM.\n2. For physical SIM transfer, you must still have access to the service via the physical SIM.\n3. In Services, select the relevant service and scroll to Transfer or restore eSIM.\n4. Follow prompts to complete activation.",
+    "source": "https://www.thegoodguys.com.au/mobile-and-broadband-plans-faqs",
+    "app": "https://apps.apple.com/au/app/the-good-guys-mobile/id6499243649",
+    "phone": "135 088",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\n1. Connect the device to Wi-Fi and open The Good Guys Mobile app on the device receiving the eSIM.\n2. For physical SIM transfer, you must still have access to the service via the physical SIM.\n3. In Services, select the relevant service and scroll to Transfer or restore eSIM.\n4. Follow prompts to complete activation.\n\nRESOURCES\nSource guide: https://www.thegoodguys.com.au/mobile-and-broadband-plans-faqs\nCarrier app: https://apps.apple.com/au/app/the-good-guys-mobile/id6499243649\nPhone support: 135 088"
+  },
+  "iiNet": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer via web",
+    "instructions": "1. Log in to Toolbox and select eSIM Swap.\n2. Select Get Started; an authorisation code is sent to your old SIM. Enter it and select Verify.\n3. Authorise the eSIM swap and select Continue.\n4. Select Send Confirmation Code SMS, then scan the eSIM QR code with your phone.",
+    "source": "https://help.iinet.net.au/esim-swaps",
+    "web": "https://toolbox3.iinet.net.au/login?ReturnUrl=%2F",
+    "phone": "13 22 58",
+    "display": "Supports physical SIM to eSIM and eSIM transfer via web\n\n1. Log in to Toolbox and select eSIM Swap.\n2. Select Get Started; an authorisation code is sent to your old SIM. Enter it and select Verify.\n3. Authorise the eSIM swap and select Continue.\n4. Select Send Confirmation Code SMS, then scan the eSIM QR code with your phone.\n\nRESOURCES\nSource guide: https://help.iinet.net.au/esim-swaps\nWeb portal: https://toolbox3.iinet.net.au/login?ReturnUrl=%2F\nPhone support: 13 22 58"
+  },
+  "iPrimus": {
+    "status": "Does not currently support eSIM",
+    "instructions": "iPrimus does not currently support eSIM activation in this guide. Check with the carrier for the latest support status.",
+    "display": "Does not currently support eSIM\n\niPrimus does not currently support eSIM activation in this guide. Check with the carrier for the latest support status.",
+    "phone": ""
+  },
+  "JB Hi-Fi Mobile": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "1. Open the JB Hi-Fi Mobile app on the device receiving the service and connect to Wi-Fi.\n2. In Services, select the relevant service and Transfer or restore eSIM.\n3. Follow the prompts to complete activation.",
+    "source": "https://www.jbhifi.com.au/pages/activate-your-jb-hi-fi-mobile-service",
+    "app": "https://apps.apple.com/au/app/jb-hi-fi-mobile/id6449985960",
+    "phone": "135 075",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\n1. Open the JB Hi-Fi Mobile app on the device receiving the service and connect to Wi-Fi.\n2. In Services, select the relevant service and Transfer or restore eSIM.\n3. Follow the prompts to complete activation.\n\nRESOURCES\nSource guide: https://www.jbhifi.com.au/pages/activate-your-jb-hi-fi-mobile-service\nCarrier app: https://apps.apple.com/au/app/jb-hi-fi-mobile/id6449985960\nPhone support: 135 075"
+  },
+  "Kogan Mobile": {
+    "status": "Physical SIM to eSIM requires phone support",
+    "instructions": "For an existing Kogan customer switching from a physical SIM to eSIM, call 1300 056 426.",
+    "phone": "1300 056 426",
+    "display": "Physical SIM to eSIM requires phone support\n\nFor an existing Kogan customer switching from a physical SIM to eSIM, call 1300 056 426.\n\nRESOURCES\nPhone support: 1300 056 426"
+  },
+  "Lebara": {
+    "status": "Contact support via web or app",
+    "instructions": "1. Sign in to MyLebara on the web or in the app.\n2. Contact support to arrange eSIM activation.\n3. A new eSIM-compatible plan may be required.",
+    "source": "https://www.lebara.com.au/support/esim/",
+    "web": "https://my.lebara.com.au/login",
+    "app": "https://apps.apple.com/au/app/lebara/id1480630528",
+    "phone": "1300 126 122",
+    "display": "Contact support via web or app\n\n1. Sign in to MyLebara on the web or in the app.\n2. Contact support to arrange eSIM activation.\n3. A new eSIM-compatible plan may be required.\n\nRESOURCES\nSource guide: https://www.lebara.com.au/support/esim/\nCarrier app: https://apps.apple.com/au/app/lebara/id1480630528\nWeb portal: https://my.lebara.com.au/login\nPhone support: 1300 126 122"
+  },
+  "Lyca Mobile": {
+    "status": "Physical SIM to eSIM via web; eSIM transfer via support",
+    "instructions": "PHYSICAL SIM TO eSIM\n1. Log in to your Lyca Mobile account on the website.\n2. Open SIM Management and select SIM Swap.\n3. Choose Swap Physical SIM to eSIM and place the eSIM order.\n4. A QR code is emailed and displayed on screen.\n5. Scan the QR code with the device camera and install the eSIM.\n\neSIM TO eSIM\nContact Lyca Mobile support and explain you are changing phones and need help transferring the eSIM.",
+    "source": "https://www.lycamobile.com.au/en/esim/i-am-using-lyca-mobile-prepay-plan-esim-what-do-i-need-to-do-when-i-upgrade-or-change-my-phone/",
+    "source2": "https://www.lycamobile.com.au/en/esim/i-am-lyca-mobile-customer-and-have-a-physical-sim-how-do-i-swap-it-with-an-esim/",
+    "web": "https://mylyca.lycamobile.com.au/en/login/",
+    "phone": "1300 854 607",
+    "display": "Physical SIM to eSIM via web; eSIM transfer via support\n\nPHYSICAL SIM TO eSIM\n1. Log in to your Lyca Mobile account on the website.\n2. Open SIM Management and select SIM Swap.\n3. Choose Swap Physical SIM to eSIM and place the eSIM order.\n4. A QR code is emailed and displayed on screen.\n5. Scan the QR code with the device camera and install the eSIM.\n\neSIM TO eSIM\nContact Lyca Mobile support and explain you are changing phones and need help transferring the eSIM.\n\nRESOURCES\nSource guide: https://www.lycamobile.com.au/en/esim/i-am-using-lyca-mobile-prepay-plan-esim-what-do-i-need-to-do-when-i-upgrade-or-change-my-phone/\nAdditional source guide: https://www.lycamobile.com.au/en/esim/i-am-lyca-mobile-customer-and-have-a-physical-sim-how-do-i-swap-it-with-an-esim/\nWeb portal: https://mylyca.lycamobile.com.au/en/login/\nPhone support: 1300 854 607"
+  },
+  "MATE": {
+    "status": "Support-assisted physical SIM to eSIM and eSIM transfer",
+    "instructions": "PHYSICAL SIM TO eSIM\n1. Log in to your MATE account.\n2. If the account is verified, use web live chat for a two-factor authentication check.\n3. If not verified, complete an identity check via 13 14 13.\n4. Once verified, MATE completes the swap and emails the eSIM details.\n\neSIM TO eSIM\n1. Contact the team by web live chat or phone (not through the app).\n2. Complete an identity check.\n3. MATE issues a new eSIM and emails a QR code.\n4. Display the QR code on another screen and scan it with the new phone.",
+    "source": "https://www.letsbemates.com.au/mate/faq/change-to-esim/",
+    "web": "https://mymate.letsbemates.com.au/sion/",
+    "support": "https://www.letsbemates.com.au/mate/support/",
+    "phone": "13 14 13",
+    "display": "Support-assisted physical SIM to eSIM and eSIM transfer\n\nPHYSICAL SIM TO eSIM\n1. Log in to your MATE account.\n2. If the account is verified, use web live chat for a two-factor authentication check.\n3. If not verified, complete an identity check via 13 14 13.\n4. Once verified, MATE completes the swap and emails the eSIM details.\n\neSIM TO eSIM\n1. Contact the team by web live chat or phone (not through the app).\n2. Complete an identity check.\n3. MATE issues a new eSIM and emails a QR code.\n4. Display the QR code on another screen and scan it with the new phone.\n\nRESOURCES\nSource guide: https://www.letsbemates.com.au/mate/faq/change-to-esim/\nWeb portal: https://mymate.letsbemates.com.au/sion/\nPhone support: 13 14 13"
+  },
+  "Optus": {
+    "status": "Supports Apple eSIM Quick Transfer and My Optus app",
+    "instructions": "PHYSICAL SIM TO eSIM\nOption 1 — Apple Quick Transfer (iOS 16 or later on both devices): On the new device go to Settings > Mobile > Add eSIM > Transfer from Nearby iPhone/iPad, then follow prompts.\nOption 2 — My Optus app: Account > SIM Management > Activate eSIM, then follow prompts.\nOption 3 — Visit an Optus store and request a QR code.\n\neSIM TO eSIM\nOption 1 — On the new device go to Settings > Mobile > Add eSIM > Transfer from Nearby iPhone/iPad, then follow prompts. Keep both devices nearby.\nOption 2 — In My Optus app on the new device, go to Account > SIM Management > Transfer or Restore eSIM.",
+    "source": "https://www.optus.com.au/support/answer/a_guide_to_esim_20000",
+    "app": "https://apps.apple.com/au/app/my-optus/id503716230",
+    "display": "Supports Apple eSIM Quick Transfer and My Optus app\n\nPHYSICAL SIM TO eSIM\nOption 1 — Apple Quick Transfer (iOS 16 or later on both devices): On the new device go to Settings > Mobile > Add eSIM > Transfer from Nearby iPhone/iPad, then follow prompts.\nOption 2 — My Optus app: Account > SIM Management > Activate eSIM, then follow prompts.\nOption 3 — Visit an Optus store and request a QR code.\n\neSIM TO eSIM\nOption 1 — On the new device go to Settings > Mobile > Add eSIM > Transfer from Nearby iPhone/iPad, then follow prompts. Keep both devices nearby.\nOption 2 — In My Optus app on the new device, go to Account > SIM Management > Transfer or Restore eSIM.\n\nRESOURCES\nSource guide: https://www.optus.com.au/support/answer/a_guide_to_esim_20000\nCarrier app: https://apps.apple.com/au/app/my-optus/id503716230",
+    "phone": ""
+  },
+  "Southern Phone Company": {
+    "status": "Contact support to order an eSIM",
+    "instructions": "Contact Southern Phone to order an eSIM, then follow the activation instructions. The guide notes a possible $10 SIM replacement charge when switching from physical SIM to eSIM.",
+    "support": "https://www.southernphone.com.au/help",
+    "phone": "13 14 64",
+    "display": "Contact support to order an eSIM\n\nContact Southern Phone to order an eSIM, then follow the activation instructions. The guide notes a possible $10 SIM replacement charge when switching from physical SIM to eSIM.\n\nRESOURCES\nPhone support: 13 14 64"
+  },
+  "Spintel": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer via web",
+    "instructions": "1. Log in to My Account on the web portal.\n2. Select Manage Service for the mobile number.\n3. Under Service Management, select Order a replacement SIM.\n4. Select eSIM and Order SIM.\n5. Go to the activation page to activate the new SIM.\n6. A QR code will be emailed for installation on the phone.",
+    "source": "https://articles.spintel.net.au/article/how-to-request-a-sim-replacement.html",
+    "web": "https://www.spintel.net.au/my-account/login",
+    "activation": "https://www.spintel.net.au/sim-activation",
+    "display": "Supports physical SIM to eSIM and eSIM transfer via web\n\n1. Log in to My Account on the web portal.\n2. Select Manage Service for the mobile number.\n3. Under Service Management, select Order a replacement SIM.\n4. Select eSIM and Order SIM.\n5. Go to the activation page to activate the new SIM.\n6. A QR code will be emailed for installation on the phone.\n\nRESOURCES\nSource guide: https://articles.spintel.net.au/article/how-to-request-a-sim-replacement.html\nWeb portal: https://www.spintel.net.au/my-account/login",
+    "phone": ""
+  },
+  "Superloop": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "1. Log in to the Superloop app or SuperHub website.\n2. Under Services, select Replace SIM.\n3. Choose eSIM as the replacement type.\n4. Enter your app PIN or use biometrics.\n5. A QR code and activation steps will be provided.",
+    "source": "https://support.superloop.com/support-hub-article/What-is-the-process-for-transferring-my-mobile-number-to-a-new-device",
+    "source2": "https://support.superloop.com/support-hub-article/superloopmobilesupport",
+    "app": "https://apps.apple.com/au/app/superloop/id1658934633",
+    "web": "https://superhub.superloop.com/login",
+    "phone": "1800 57 87 37",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\n1. Log in to the Superloop app or SuperHub website.\n2. Under Services, select Replace SIM.\n3. Choose eSIM as the replacement type.\n4. Enter your app PIN or use biometrics.\n5. A QR code and activation steps will be provided.\n\nRESOURCES\nSource guide: https://support.superloop.com/support-hub-article/What-is-the-process-for-transferring-my-mobile-number-to-a-new-device\nAdditional source guide: https://support.superloop.com/support-hub-article/superloopmobilesupport\nCarrier app: https://apps.apple.com/au/app/superloop/id1658934633\nWeb portal: https://superhub.superloop.com/login\nPhone support: 1800 57 87 37"
+  },
+  "Tangerine": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer",
+    "instructions": "1. In the mobile dashboard of the Self Care Portal, select Manage.\n2. Select Change > Change SIM and confirm the service.\n3. Choose eSIM and enter the mobile number linked to the service.\n4. Verify your identity using the one-time PIN.\n5. Confirm eSIM as the new SIM type and enter your phone number if prompted.\n6. Follow the prompts to install the eSIM on the new or existing device.",
+    "source": "https://www.tangerine.com.au/help/how-do-i-switch-from-a-physical-sim-to-an-esim",
+    "source2": "https://www.tangerine.com.au/help/how-to-move-your-esim-to-another-device",
+    "web": "https://myaccount.tangerine.com.au/login",
+    "phone": "1800 211 112",
+    "display": "Supports physical SIM to eSIM and eSIM transfer\n\n1. In the mobile dashboard of the Self Care Portal, select Manage.\n2. Select Change > Change SIM and confirm the service.\n3. Choose eSIM and enter the mobile number linked to the service.\n4. Verify your identity using the one-time PIN.\n5. Confirm eSIM as the new SIM type and enter your phone number if prompted.\n6. Follow the prompts to install the eSIM on the new or existing device.\n\nRESOURCES\nSource guide: https://www.tangerine.com.au/help/how-do-i-switch-from-a-physical-sim-to-an-esim\nAdditional source guide: https://www.tangerine.com.au/help/how-to-move-your-esim-to-another-device\nWeb portal: https://myaccount.tangerine.com.au/login\nPhone support: 1800 211 112"
+  },
+  "TeleChoice": {
+    "status": "eSIM available when signing up or transferring service",
+    "instructions": "Ensure the device supports eSIM. When signing up, select the eSIM option to receive a QR code. The guide notes number transfers are supported for new and existing customers.",
+    "source": "https://telechoice.com.au/esim-plans/",
+    "phone": "1300 835 324",
+    "display": "eSIM available when signing up or transferring service\n\nEnsure the device supports eSIM. When signing up, select the eSIM option to receive a QR code. The guide notes number transfers are supported for new and existing customers.\n\nRESOURCES\nSource guide: https://telechoice.com.au/esim-plans/\nPhone support: 1300 835 324"
+  },
+  "Telstra": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer in My Telstra app",
+    "instructions": "PHYSICAL SIM TO eSIM\n1. Open My Telstra app.\n2. Go to Services and choose your service.\n3. Select Setup or manage eSIM > Convert to eSIM.\n\n eSIM TO eSIM\n1. Open My Telstra app on the new device.\n2. Go to Services and choose your service.\n3. Select Setup or manage eSIM > Transfer or restore eSIM and follow prompts.\nIf you cannot access the app, call support or visit a store.",
+    "source": "http://www.telstra.com.au/support/mobiles-devices/convert-esim",
+    "source2": "http://www.telstra.com.au/support/mobiles-devices/transfer-esim",
+    "app": "https://apps.apple.com/au/app/my-telstra/id543829966",
+    "phone": "13 22 00",
+    "display": "Supports physical SIM to eSIM and eSIM transfer in My Telstra app\n\nPHYSICAL SIM TO eSIM\n1. Open My Telstra app.\n2. Go to Services and choose your service.\n3. Select Setup or manage eSIM > Convert to eSIM.\n\n eSIM TO eSIM\n1. Open My Telstra app on the new device.\n2. Go to Services and choose your service.\n3. Select Setup or manage eSIM > Transfer or restore eSIM and follow prompts.\nIf you cannot access the app, call support or visit a store.\n\nRESOURCES\nSource guide: http://www.telstra.com.au/support/mobiles-devices/convert-esim\nAdditional source guide: http://www.telstra.com.au/support/mobiles-devices/transfer-esim\nCarrier app: https://apps.apple.com/au/app/my-telstra/id543829966\nPhone support: 13 22 00"
+  },
+  "TPG": {
+    "status": "Supports physical SIM to eSIM and eSIM transfer via web",
+    "instructions": "1. Log in to My Account on the web and select eSIM Swap.\n2. Select Get Started; an authorisation code is sent to your old SIM. Enter it and select Verify.\n3. Authorise the swap and select Continue.\n4. Select Send Confirmation Code SMS, then scan the eSIM QR code with your phone.",
+    "source": "https://support.tpg.com.au/esim-swaps",
+    "web": "https://www.tpg.com.au/myaccount",
+    "display": "Supports physical SIM to eSIM and eSIM transfer via web\n\n1. Log in to My Account on the web and select eSIM Swap.\n2. Select Get Started; an authorisation code is sent to your old SIM. Enter it and select Verify.\n3. Authorise the swap and select Continue.\n4. Select Send Confirmation Code SMS, then scan the eSIM QR code with your phone.\n\nRESOURCES\nSource guide: https://support.tpg.com.au/esim-swaps\nWeb portal: https://www.tpg.com.au/myaccount\nPhone support: General support: 13 14 23\nTechnical support: 1300 997 273",
+    "phone": "General support: 13 14 23\nTechnical support: 1300 997 273"
+  },
+  "Vodafone": {
+    "status": "Supports Apple Quick Transfer and My Vodafone app",
+    "instructions": "OPTION 1 — Apple Quick Transfer\n1. On the new device, go to Settings > Mobile > Add eSIM > Transfer from Nearby iPhone/iPad.\n2. Follow prompts. Vodafone 4-digit PIN is required.\n\nOPTION 2 — My Vodafone app\n1. Select Account from the bottom menu.\n2. Select SIM and call settings.\n3. For the service, select Swap to eSIM.\n4. Sign in and ensure you are using the device receiving the eSIM.\n5. Submit the SIM swap and follow prompts to activate.",
+    "source": "https://www.vodafone.com.au/support/device/replace-sim?tabs=physical-sim-to-an-esim",
+    "app": "https://apps.apple.com/au/app/my-vodafone-australia/id473879501",
+    "phone": "1300 650 410",
+    "display": "Supports Apple Quick Transfer and My Vodafone app\n\nOPTION 1 — Apple Quick Transfer\n1. On the new device, go to Settings > Mobile > Add eSIM > Transfer from Nearby iPhone/iPad.\n2. Follow prompts. Vodafone 4-digit PIN is required.\n\nOPTION 2 — My Vodafone app\n1. Select Account from the bottom menu.\n2. Select SIM and call settings.\n3. For the service, select Swap to eSIM.\n4. Sign in and ensure you are using the device receiving the eSIM.\n5. Submit the SIM swap and follow prompts to activate.\n\nRESOURCES\nSource guide: https://www.vodafone.com.au/support/device/replace-sim?tabs=physical-sim-to-an-esim\nCarrier app: https://apps.apple.com/au/app/my-vodafone-australia/id473879501\nPhone support: 1300 650 410"
+  }
+}
